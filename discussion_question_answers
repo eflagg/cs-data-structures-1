@@ -1,0 +1,23 @@
+Runtime:
+1. The number of animal crackers in your box determines your workload.
+2. O(1), O(log n), O(n), O(n log n), O(n^2), O(2^n)
+
+Stacks and Queues:
+1.
+	1. stack
+	2. queue
+	3. stack
+2. line at the DMV; HB help queue
+3. washing dishes; back button in browser
+
+Linked Lists:
+1. Nodes: apple, berry and cherry (including datas of strings "Apple", "Berry", and "Cherry" and next methods for each node); 
+head is the apple node (including data and next method); 
+there is no tail in this linked list
+2. Singly linked lists just have a next method while doubly linked lists have both a next method and a previous method
+3. If we can point directly to where the tail is, appending is O(1) whereas otherwise we would have to traverse the whole linked list which would make appending O(n)
+
+Trees:
+1. food, Italian, Indian, Mexican, lasagna, pizza, tikka masala, saag, burrito
+2. food, Mexican, enchiladas, tacos, burrito, Indian, saag, tikka masala, Italian, pizza, Sicilian, New York-style, Chicago-style
+3. A binary search tree can only have 0-2 children (as well as only 1 parent). They also must be balanced, meaning no branch is more than 1 level longer or shorter than another. This way, when searching, you can eliminate half the data at each decision point.
